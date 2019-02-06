@@ -1,8 +1,11 @@
 # Aria2 Recursive Download
 
 Forked from: https://github.com/Cartmanishere/Aria2-Recursive-Download
+
 I modified download.py so that it now dynamically maximizes speed for the client connection.
+
 See pull request in original repo for more details.
+
 
 
 # Original Docs
